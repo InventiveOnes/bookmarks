@@ -6,9 +6,9 @@
 
 ![InventiveOnes Logo][IO-Logo]
 
-| Product | Version | Last update |             Author |
-|---------|:-------:|:-----------:|-------------------:|
-| `ownCloud Bookmarks` | **0.1.0** |  19/02/2017 | [Lavysh Alexander] |
+| Product              |  Version  |  Last update  |       Author       |
+|:---------------------|:---------:|:-------------:|:-------------------|
+| `ownCloud Bookmarks` | **0.1.0** |  *19/02/2017* | [Lavysh Alexander] |
 
 </center>
 
